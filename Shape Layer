@@ -1,0 +1,31 @@
+/*    Shape Layer
+layer.property(1)  //Marker
+layer.property(2)  //Contents
+layer.property(3)  //Masks
+layer.property(4)  //Effects
+layer.property(5)  //Transform
+layer.property(6)  //Layer Styles
+layer.property(7)  //Geometry Options
+layer.property(8)  //Material Options
+layer.property(9)  //Audio
+layer.property(10)  //Sets              */    
+    
+/*
+Shape Layer
+layer.property(1)  //Marker
+
+layer.property(2)  //Contents
+layer.property(2).property(1)  //Contents -  Group1
+layer.property(2).property(1).property(1)  //Contents -  Group1 - Blend Mode
+layer.property(2).property(1).property(2)  //Contents -  Group1 - Contents
+
+layer.property(2).property(1).property(2).property(마지막)  //Contents -  Group1 - Contents - Fill 1
+layer.property(2).property(1).property(2).property(마지막).property(4)  //Contents -  Group1 - Contents - Fill 1 - color
+
+layer.property(2).property(1).property(3)  //Contents -  Group1 - Transform
+layer.property(2).property(1).property(4)  //Contents -  Group1 - Material Options
+
+*/
+
+
+
